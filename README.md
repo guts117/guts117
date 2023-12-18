@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/overview.svg#gh-dark-mode-only?token=<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>)
-![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/overview.svg#gh-light-mode-only?token=<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>)
+![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/overview.svg#gh-dark-mode-only?token=<token>)
+![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/overview.svg#gh-light-mode-only?token=<token>)
 
-![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/languages.svg#gh-dark-mode-only?token=<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>)
-![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/languages.svg#gh-light-mode-only?token=<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>)
+![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/languages.svg#gh-dark-mode-only?token=<token>)
+![](https://raw.githubusercontent.com/guts117/github-stats/master/generated/languages.svg#gh-light-mode-only?token=<token>)
 <!--
 **guts117/guts117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
