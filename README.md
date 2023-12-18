@@ -16,6 +16,9 @@ I love reading a lot of software engineering books.
 
 I'm also contributing to my own private repo which is a modern 3D Simulation Engine.
 
+Get to know my work more:
+- [Portfolio](https://www.linkedin.com/in/rabin-gajmer-946b741a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCrQ5khqXTEic9dNWcXibqQ%3D%3D)
+
 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/rabin-gajmer-946b741a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCrQ5khqXTEic9dNWcXibqQ%3D%3D)
 - Personal Email: rabingajmer7@gmail.com
