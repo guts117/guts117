@@ -10,7 +10,7 @@ I work in the field of games and robotics.
 
 My expertise is in graphics simulation.
 
-I am studying hard to get into the field of computer vision and AI.
+I am studying hard to expand my expertise in the field of computer vision and artificial intelligence as well.
 
 I love reading a lot of software engineering books.
 
