@@ -6,7 +6,13 @@
 
 ### Welcome to my GitHub 👋
 
-I'm currently reading a lot of software engineering books.
+I work in the field of games and robotics.
+
+My expertise is in graphics simulation.
+
+I am studying hard to get into the field of computer vision and AI.
+
+I love reading a lot of software engineering books.
 
 I'm also contributing to my own private repo which is a modern 3D Simulation Engine.
 
