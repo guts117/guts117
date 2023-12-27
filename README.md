@@ -8,9 +8,9 @@
 
 I work in the field of games and robotics.
 
-My expertise is in graphics simulation.
+My expertise is in graphics/physics simulation.
 
-I am studying hard to expand my expertise in the field of computer vision and artificial intelligence as well.
+I am studying hard to expand my expertise in the field of computer vision and artificial intelligence within the field of graphics/physics simulation.
 
 I love reading a lot of software engineering books.
 
